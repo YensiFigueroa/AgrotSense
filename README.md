@@ -13,4 +13,4 @@ Visualiza en tiempo real temperatura, humedad, amoniaco (NH₃) y metano (CH₄)
 - **Dashboard:** HTML + CSS + JavaScript + Chart.js (archivo único, sin dependencias de servidor)
 
 ## 🌐 Video de youtube
-👉 [Ver dashboard]()
+👉 [enlace](https://youtu.be/bGyGzbG4VrI)
