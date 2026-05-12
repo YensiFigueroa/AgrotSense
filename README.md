@@ -12,5 +12,5 @@ Visualiza en tiempo real temperatura, humedad, amoniaco (NH₃) y metano (CH₄)
 - **Pipeline:** Node-RED → InfluxDB → Grafana
 - **Dashboard:** HTML + CSS + JavaScript + Chart.js (archivo único, sin dependencias de servidor)
 
-## 🌐 Demo en vivo
-👉 [Ver dashboard](https://yensifigueroa.github.io/AgrotSense/granja_iot_dashboard.html)
+## 🌐 Video de youtube
+👉 [Ver dashboard]()
