@@ -14,4 +14,3 @@ Visualiza en tiempo real temperatura, humedad, amoniaco (NH₃) y metano (CH₄)
 
 ## 🌐 Demo en vivo
 👉 [Ver dashboard](https://yensi-figueroa.github.io/iot-granja-porcina-caldas/)
-
